@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Death's Door",
+    "price": 75.7
+  },
+  {
+    "id": 2,
+    "name": "Unholy Ring",
+    "price": 49.1
+  },
+  {
+    "id": 3,
+    "name": "Impurity Circlet",
+    "price": 37.1
+  },
+  {
+    "id": 4,
+    "name": "Aurora Staff",
+    "price": 496
+  },
+  {
+    "id": 6,
+    "name": "Insanity Rod",
+    "price": 381.5
+  },
+  {
+    "id": 7,
+    "name": "Door of Fortitude",
+    "price": 39.2
+  },
+  {
+    "id": 8,
+    "name": "Robes of Strength",
+    "price": 72.2
+  },
+  {
+    "id": 9,
+    "name": "Instrument of Shapeshifting",
+    "price": 842
+  },
+  {
+    "id": 10,
+    "name": "Chalice of Immunity",
+    "price": 24.8
+  },
+  {
+    "id": 13,
+    "name": "Microlith of Dementia",
+    "price": 380
+  }
+]
